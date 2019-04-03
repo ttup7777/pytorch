@@ -1,0 +1,7 @@
+organization=ttup7777-github
+projectKey=ttup7777_pytorch
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.22792
+dashboardUrl=https://sonarcloud.io/dashboard?id=ttup7777_pytorch
+ceTaskId=AWmSwpwGjpDOvS2RYoCC
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWmSwpwGjpDOvS2RYoCC
